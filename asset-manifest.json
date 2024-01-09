@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dukan/static/css/main.e4912868.css",
+    "main.js": "/dukan/static/js/main.61e95f11.js",
+    "static/js/787.7511c4e0.chunk.js": "/dukan/static/js/787.7511c4e0.chunk.js",
+    "static/media/nishyan.jpeg": "/dukan/static/media/nishyan.343a0ea08aed8fddf940.jpeg",
+    "index.html": "/dukan/index.html",
+    "main.e4912868.css.map": "/dukan/static/css/main.e4912868.css.map",
+    "main.61e95f11.js.map": "/dukan/static/js/main.61e95f11.js.map",
+    "787.7511c4e0.chunk.js.map": "/dukan/static/js/787.7511c4e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4912868.css",
+    "static/js/main.61e95f11.js"
+  ]
+}
