@@ -1,0 +1,87 @@
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.nav-list-style {
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+.nav-list-item {
+  color: #d2d4d6;
+  font-size: 14px;
+  width: 140px;
+  display: flex;
+  padding: 6px;
+}
+
+.item-text {
+  margin-left: 10px;
+}
+
+.icon-style {
+  font-size: 16px;
+}
+
+.nav-top-div {
+  background-image: url("../../../public/nishyan.jpeg");
+  background-size: cover;
+  border-radius: 6px;
+  height: 40px;
+  width: 40px;
+}
+
+.side-div {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.top-container {
+  display: flex;
+  padding-left: 5px;
+  margin: 10px;
+}
+
+.drop-down {
+  margin-left: auto;
+  font-size: 30px;
+}
+
+.visit-store {
+  color: #d2d4d6;
+  font-size: small;
+  text-decoration: underline;
+}
+
+.nav-bottom-div {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 15px;
+  border-radius: 5px;
+}
+
+.wallet-container {
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.Available-credits {
+  font-size: smaller;
+}
+
+.selected {
+  width: 95%;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
