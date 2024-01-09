@@ -1,4 +1,6 @@
 .body-container {
+  overflow-y: scroll;
+  height: 90vh;
   padding: 25px;
 }
 .overview-container {
@@ -25,7 +27,7 @@
 
 .order-container {
   padding: 15px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   width: 49%;
 }
@@ -34,7 +36,7 @@
 }
 
 .shadow {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   padding: 10px;
 }
@@ -54,7 +56,6 @@
 }
 
 .search-container-2 {
-  margin-top: 8px;
   display: flex;
 }
 
@@ -75,7 +76,6 @@
 
 .sort-container {
   display: flex;
-  margin-top: 8px;
 }
 .inner-sort-container {
   font-size: 13px;

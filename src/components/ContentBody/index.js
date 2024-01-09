@@ -60,7 +60,7 @@ const dataArray = [
 
 const ContentBody = () => {
   return (
-    <div className="body-container">
+    <div className="body-container hideScroll">
       <div className="overview-container">
         <div className="sub-heading">Overview</div>
         <select className="sort-by-container">

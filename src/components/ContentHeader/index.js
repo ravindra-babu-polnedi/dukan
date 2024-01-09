@@ -1,9 +1,9 @@
 import React from "react";
 import "./index.css";
-import { MdTextsms } from "react-icons/md";
 import { GoQuestion } from "react-icons/go";
 import { IoSearchOutline } from "react-icons/io5";
 import { IoMdArrowDropdown } from "react-icons/io";
+import Message from "../../components/Message";
 
 const ContentHeader = () => {
   return (
@@ -29,7 +29,7 @@ const ContentHeader = () => {
       </div>
       <div className="icon-container">
         <div className="icon-1">
-          <MdTextsms style={{ fontSize: "1em" }} />
+          <Message />
         </div>
         <div className="icon-2">
           <IoMdArrowDropdown

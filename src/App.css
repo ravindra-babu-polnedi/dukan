@@ -5,3 +5,7 @@
 input[type="search"] {
   outline: none;
 }
+
+.hideScroll::-webkit-scrollbar {
+  display: none;
+}
